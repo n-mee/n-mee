@@ -26,7 +26,7 @@ Outside of tech, I'm an aspiring Video Editor and Content Creator who enjoys edi
   <summary><b>Click to know more about me</b></summary>
   
   ### Github Stats
-  [![Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-mee)](https://github.com/anuraghazra/github-readme-stats)
+  ![Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-mee&show_icons=true&theme=transparent)
   
   (Records of what i've done over these past months/years)
 </details>
