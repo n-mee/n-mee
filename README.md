@@ -1,29 +1,37 @@
 <div align="center">
 
-  # Hello, I'm Johnzel!
+  ### 👋 Hello! I'm Name/Jnzl.
   
   <p>
-    <i>"Theory -> Practice -> Fail -> Learn -> Test -> Deploy -> Produce"</i>
+    <a href="https://www.instagram.com/_jnzl.m/">Instagram</a>
+    -  
+    <a href="https://web.facebook.com/jnzl.official">Facebook</a>
+    -  
+    <a href="https://discord.com/users/1277592437350596669">Discord</a>
   </p>
-
-  <a href="https://github.com/zlxdev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=C+Programmer;Collegiate+Student;Building+Low-Level+Programs" alt="Typing SVG" />
-  </a>
 
 </div>
 
 ---
 
-###  Featured Project: The Road of C
-I am currently documenting my journey to master C from scratch to memory management.
-> **[Click here to view the Repository](https://github.com/zlxdev/The-Road-of-C)** > *Hand-coded mastery. No shortcuts. Pure C.*
+### About me
+
+I'm a collegiate student who is interested in programming from the bottom-up, starting from the lowest languages to high level languages that builds infrastructure, systems, and mostly games.
+
+I believe in the philosophy of: staying curious, learning what I know and what I don't know, and sharing the knowledge and designing a system that would serve for the benefit of the society towards the greater good. I enjoy making mock systems as a hobby to build strong habits towards better work ethic. I also strive to create a community that holds the records of our journey. Not only just for my own interest—but for all of us as well.
+
+Outside of tech, I'm an aspiring Video Editor and Content Creator who enjoys editing on a free time, whether from documenting one's life and highlighting their moments to someone who edits just for the fun of it. I also do blogs (or in this case "logs") in my free time to clear my headspace, which mostly about a little bit of everything.
+
+<details>
+  <summary><b>Click to know more about me</b></summary>
+  
+  ### Github Stats
+  [![Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-mee)](https://github.com/anuraghazra/github-readme-stats)
+  
+  (Records of what i've done over these past months/years)
+</details>
 
 ---
-
-###  About Me
-* **Current Focus:** Grasping C Core Concepts (Pointers, Memory, Structs)
-* **Future Goals:** Game Dev, System Architecture & Cybersecurity
-* **Status:** 18 y/o Student @ Our Lady of Lourdes College
 
 ###  Equipment & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -35,7 +43,7 @@ I am currently documenting my journey to master C from scratch to memory managem
 
 ###  Statistics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlxdev&theme=dark&hide_border=true" alt="Zlxdev's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n-meev&theme=dark&hide_border=true" alt="Zlxdev's Streak" />
   <br/>
 </div>
 
