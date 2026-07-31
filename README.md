@@ -15,24 +15,23 @@ Outside of tech, I enjoy doing alot things across multiple domains, this include
 > [!IMPORTANT]
 > All of the projects stated under this section are still WIP or *Work-in-Progress*
 
-  **[Base-0](https://github.com/n-mee/Base-0)** - Unfinshed repository of all my knowledge in C. As of June 2026, it is basically on hiatus and will be worked on once Im done with current projects
+  **[Base-0](https://github.com/n-mee/Base-0)** - Unfinshed repository of all my knowledge in C. As of June 2026, it is basically on hiatus and will be worked on once I'm done with current projects
 
   **[cBankSim](https://github.com/n-mee/Bank-Simulation-C)** - An entire bank system created in C from scratch.
 
   ## Tech Stack
-  As of 2026, i am only limited to knowledge in C in language and uses tools like Makefile and Git in-order to smoothen my workflow. And i mostly develop systems inside of Linux specifically FedoraOS
+  As of 2026, i am only limited to working in C in language due to a project in the making and i also use tools like Makefile and Git in-order to smoothen my workflow. As well as developing systems inside of Linux specifically FedoraOS
 
   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/)
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git/git)
   [![Makefile](https://img.shields.io/badge/makefile-%232F333A.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/manual/make.html)
   [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=git&logoColor=white)](https://ubuntu.com/desktop/wsl)
 
----
 
-###  Contact Info
+##  Contact Info
 
-Embedded links above are mostly for networking and socializing.      
-For further inquiries, don't hesitate to message on my socials below.
+Embedded social links above are mostly for networking and socializing.      
+For further inquiries, don't hesitate to click one of the links below.
 
 <a href="mailto:j.marahay.pro@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
